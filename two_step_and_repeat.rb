@@ -1,4 +1,4 @@
-ddef first_steps
+def first_steps
  loop do
   puts "Right foot back"
   sleep(0.5)
