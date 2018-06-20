@@ -29,9 +29,9 @@ def first_steps
       steps += 1 
       puts steps
       if(steps % 2 == 0)
-        puts "left"
+        puts "Left"
       else
-        puts "right"
+        puts "Right"
       end
       sleep(0.5)
     end
@@ -43,9 +43,9 @@ def first_steps
       steps += 1 
       puts steps
       if(steps % 2 == 0)
-        puts "left"
+        puts "Left"
       else
-        puts "right"
+        puts "Right"
       end
       sleep(0.5)
       if steps == 6 
